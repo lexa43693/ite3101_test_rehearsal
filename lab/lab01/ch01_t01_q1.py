@@ -3,7 +3,7 @@ def main():
     while True:
         num = int(input("input a int"))
         if num % 10 == 0 :
-            
+            print()
 
 
 
