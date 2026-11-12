@@ -1,6 +1,6 @@
 def main():
     # Remove pass with your answer.
-    int = int(input("input a int"))
+    num = int(input("input a int"))
 
 
 if __name__ == "__main__":
