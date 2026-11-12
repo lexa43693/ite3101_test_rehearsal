@@ -3,9 +3,9 @@ def main():
     while True:
         num = int(input("input a int"))
         if num % 10 == 0 and num % 3 != 0:
-            print(50 is divisible by 10 and not divisible by 3.)
+            print( is divisible by 10 and not divisible by 3.)
         else :
-            print(3 is not divisible by 10 or divisible by 3.)
+            print( is not divisible by 10 or divisible by 3.)
 
 
 
