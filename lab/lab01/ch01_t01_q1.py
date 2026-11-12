@@ -1,6 +1,6 @@
 def main():
     # Remove pass with your answer.
-    num = int(input("input a int"))
+    print(%)
 
 
 if __name__ == "__main__":
