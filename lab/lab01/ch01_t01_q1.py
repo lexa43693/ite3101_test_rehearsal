@@ -2,7 +2,7 @@ def main():
     # Remove pass with your answer.
     while True:
         num = int(input("input a int"))
-        if num % 10 == 0 and:
+        if num % 10 == 0 and num % 3 != 0:
             print()
 
 
