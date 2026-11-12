@@ -4,6 +4,7 @@ def main():
         num = int(input("input a int"))
         if num % 10 == 0 and num % 3 != 0:
             print()
+            
 
 
 
